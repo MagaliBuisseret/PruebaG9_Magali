@@ -25,9 +25,10 @@ body{
 }
 .header{
 	text-align: center;
-	background-image: url(../img/logo3.png);
+	background-image: url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;	
+	height: 70vh;
 }
 .thumbnail{
 	border: solid 6px #15064A;
@@ -35,6 +36,11 @@ body{
 	padding: 0 0 20px 0;
 	overflow: hidden;
 	text-align: center;
+	height: 400px;
+	margin-top: 50px;
+}
+.thumbnail img{
+	height: 160px;
 }
 .footer{
 	background-color: #15064A;
