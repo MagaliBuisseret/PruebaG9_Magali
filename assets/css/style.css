@@ -1,0 +1,42 @@
+body{
+	margin:0;
+	overflow: hidden;
+}
+.navbar-default{
+	margin-bottom: 0;
+	border: none;
+}
+.navbar__inner{
+	background-color: white;
+	height: 12vh;
+}
+.navbar-default .navbar-nav li a{
+	color: #000000;
+}
+.navbar__logo{
+	width: 70px;
+	margin-left: 10vw;
+	margin-bottom: 10vh;
+}
+.navbar__inner_item{
+	margin-top: 20px;
+	padding-right: 5vw;
+	font-size: 1.8rem;
+}
+.header{
+	text-align: center;
+	background-image: url(../img/logo3.png);
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.thumbnail{
+	border: solid 6px #15064A;
+	border-radius: 6%;
+	padding: 0 0 20px 0;
+	overflow: hidden;
+	text-align: center;
+}
+.footer{
+	background-color: #15064A;
+	color: white;
+}
