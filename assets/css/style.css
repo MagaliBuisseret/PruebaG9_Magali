@@ -1,3 +1,6 @@
+.body{
+	margin: 0;
+}
 .navbar-default{
 	margin-bottom: 0;
 	border: none;
@@ -26,17 +29,18 @@
 	background-image: url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;	
-	height: 70vh;
+	height: 90vh;
 	font-family: "Roboto", sans-serif;
 	padding-top: 15px;
 	color: #15064A;
 }
 .header h1{
-	padding-top: 10px;
+	padding-top: 0;
 	font-size: 5rem;
 }
 .header p{
 	font-size: 1.5rem;
+	padding-top: 350px;
 }
 .thumbnail{
 	border: solid 6px #15064A;
@@ -48,9 +52,20 @@
 	margin-top: 50px;
 	margin-bottom: 70px;
 	background-size: cover;
+	font-family: "Roboto", sans-serif;
 }
-.thumbnail img{
-	height: 160px;
+.features__icons .boton_home{
+	background-color:#15064A;
+	color: white;
+	font-family: "Roboto", sans-serif;
+}
+.features__icons p{
+	text-align: center;
+	padding-top: 35px;
+}
+.features__icons p span{
+	color: #15064A;
+	font-size: 600%;
 }
 .footer{
 	background-color: #15064A;
@@ -62,18 +77,95 @@
 }
 .footer__inner_contacto h4{
 	font-family: "Roboto", sans-serif;
-	font-size: 2rem;
+	font-size: 1.7rem;
 }
 .footer__inner_contacto p{
 	font-family: "Roboto", sans-serif;
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 	margin-bottom: 0;
 }
 .footer__inner_contacto a{
 	font-family: "Roboto", sans-serif;
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 	color: white;
 }
 .footer__inner_mapa{
 	margin-top: 40px;
+}
+.nosotros__features__title{
+	text-align: center;
+	height: 30vh;
+	font-family: "Roboto", sans-serif;
+	font-size: 1.6rem;
+}
+.nosotros__features__inner{
+	text-align: center;
+	background-color: #CCCCCC;
+	margin-bottom: 0;
+} 
+.nosotros__features__inner p{
+	font-size: 1.5rem;
+	font-family: "Roboto", sans-serif;	
+} 
+
+.nosotros-features__icons span{
+	font-size: 300%;
+	margin-bottom: 20px;
+}
+.nosotros-features__inner-box{
+	padding: 20px;
+}
+.nosotros__main__title{
+	text-align: center;
+	height: 30vh;
+	font-family: "Roboto", sans-serif;
+	font-size: 1.6rem;
+	margin-top: 30px;
+	padding-top: 7vh;
+}
+.nosotros-main{
+	background-color: #CCCCCC;
+}
+.nosotros-main__inner{
+	border: solid 6px #15064A;
+	border-radius: 6%;
+	padding: 0;
+	overflow: hidden;
+	text-align: center;
+	height: 450px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+	background-size: cover;
+	font-family: "Roboto", sans-serif;
+}	
+.nosotros-main__inner p{
+	font-size: 1.1rem;
+	padding: 1vw;
+}
+.nosotros__features__title2{
+	text-align: center;
+	height: 30vh;
+	font-family: "Roboto", sans-serif;
+	font-size: 1.6rem;
+	margin-top: 30px;
+	padding-top: 7vh;
+}
+.nosotros-features__inner-box h6{
+	font-size: 1.1rem;
+	font-family: "Roboto", sans-serif;
+}
+.noticias-left{
+	margin-top: 13vh;
+	font-family: "Roboto", sans-serif;
+	text-align: justify;
+}
+.noticias-left img{
+	margin-bottom: 7vh;
+	width: 100%;
+	text-align: center;
+}
+.noticias-left{
+	margin-top: 13vh;
+	font-family: "Roboto", sans-serif;
+	text-align: justify;
 }
