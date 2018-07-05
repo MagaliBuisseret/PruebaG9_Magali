@@ -41,13 +41,13 @@
 	font-size: 1.5rem;
 	padding-top: 22%;
 }
-.thumbnail{
+.features__icons{
 	border: solid 6px #15064A;
 	border-radius: 6%;
 	padding: 0;
 	overflow: hidden;
 	text-align: center;
-	height: 60vh;
+	height: 400px;
 	margin-top: 50px;
 	margin-bottom: 70px;
 	background-size: cover;
@@ -139,7 +139,7 @@
 	padding: 0;
 	overflow: hidden;
 	text-align: center;
-	height: 70vh;
+	height: 470px;
 	margin-top: 50px;
 	margin-bottom: 70px;
 	background-size: cover;
@@ -147,7 +147,7 @@
 }	
 .nosotros-main__inner p{
 	font-size: 1.1rem;
-	padding: 1vw;
+	padding-top: 1vw;
 }
 .nosotros-main__inner-img{
 	width: 110%;
