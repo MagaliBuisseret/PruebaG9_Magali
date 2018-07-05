@@ -29,6 +29,7 @@
 	background-image: url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	font-family: "Roboto", sans-serif;
 	padding-top: 2vh;
 	color: #15064A;
