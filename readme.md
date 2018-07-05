@@ -1,4 +1,5 @@
 # MAQUETACIÓN
+### Link GitHub Pages: 
 ### Requisitos generales:
 La Fundación Niños y Cáncer requiere una versión mejorada de su sitio web.
 El sitio contiene 3 páginas:
@@ -20,7 +21,7 @@ Cada página contiene:
 ### Requisitos visuales:
 	- En toda lás páginas:
 		- Fuente: Roboto (google fonts)
-		- Colores de texto: #FFFFFF, #15064A, white, black 
+		- Colores de texto: #CCCCCC, #FFFFFF, #15064A, white, black 
 	- Imagenes:
 		- Las imagenes se encuentran dentro de la carpeta assets/img
 	- Iconos: 
@@ -36,4 +37,3 @@ Cada página contiene:
 ![](assets/img/sketch7.jpg)
 ![](assets/img/sketch8.jpg)
 
-### Link GitHub Pages: 
